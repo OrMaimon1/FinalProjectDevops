@@ -10,7 +10,7 @@ null && request.getParameter("email")
 <H2>User Info Request Form</H2>     
 <FORM METHOD="GET" ACTION="/developer/technicalArticles/xml/WebAppDev/process.jsp">     
 <P>     
-Your name!: <input type="text" name=
+Your name!!!!!!!!!: <input type="text" name=
 "name" size=26>     
 <P>     
 Your email: <input type="text" name=
